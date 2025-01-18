@@ -1,0 +1,13 @@
+{
+  "name": "haku",
+  "version": "1.0.2",
+  "description": "A CLI tool for text formatting",
+  "main": "bin/main.js",
+  "bin": {
+    "haku": "./bin/main.js"
+  },
+  "dependencies": {
+    "clipboardy": "^4.0.0"
+  },
+  "license": "MIT"
+}
